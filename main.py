@@ -13,9 +13,9 @@ def done():
 
 def do_display(json_entry):
     print("\n"+("-"*(20+(len(json_entry['resource'])))))
-    print("Resource Found! [link="+json_entry['resource-link']+"]"+json_entry['resource']+"[/link]!")
+    print("Resource Found! [link="+json_entry['resource-link']+"]"+json_entry['resource']+"[/link]")
     print("-"*(10+(len(json_entry['resource']))))
-    print("Sourced at [link="+json_entry['grabbed-from-link']+"]"+json_entry['grabbed-from']+"[/link]!")
+    print("Sourced at [link="+json_entry['grabbed-from-link']+"]"+json_entry['grabbed-from']+"[/link]")
     print("-"*(10+(len(json_entry['grabbed-from']))))
     print("Description:\n" + json_entry['description'])
     print("-"*(20+(len(json_entry['grabbed-from']))))
@@ -38,7 +38,7 @@ def main():
         try:
             clear()
             do_intro()
-            str_search = input("\nEnter keyword (blank to exit): ")
+            str_search = input("\nEnter your keyword (blank to exit): ")
             if str_search == "":
                 done()
             do_search(str_search)
