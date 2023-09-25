@@ -3,6 +3,7 @@ A keyword-based search for referencing your favorite OSINT tools. No more bookma
 
 # Room for Improvements
 * Filtering
+* Quotes
 * Categorization
 * Tree View
 
