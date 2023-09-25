@@ -8,4 +8,4 @@ A keyword-based search for referencing your favorite OSINT tools. No more bookma
 * Tree View
 
 # Disclaimer
-This tool was originally created for personal use. Overall Information accuracy still needs a lot of work.
+This tool was originally created for personal use. Overall information accuracy still needs a lot of work.
