@@ -15,6 +15,18 @@
 	  "category-1": "Database",
 	  "category-2": "Learn",
 	  "service-type": "OSINT",
+	  "resource": "MITRE D3FEND™",
+	  "grabbed-from": "MITRE",
+	  "resource-link": "https://d3fend.mitre.org/",
+	  "grabbed-from-link": "https://www.mitre.org/",
+	  "tags": "",
+	  "compatibility": "",
+	  "description": "MITRE D3FEND™ is a knowledge base—defined as a \"knowledge-graph\" by MITRE—that serves as a library of defensive cybersecurity countermeasures, technical components, and their associations and capabilities. It is complementary to the MITRE ATT&CK® framework of cybercriminals' Tactics, Techniques, and Procedures (TTP)."
+	},
+	{
+	  "category-1": "Database",
+	  "category-2": "Learn",
+	  "service-type": "OSINT",
 	  "resource": "MITRE ATT&CK® Navigator",
 	  "grabbed-from": "MITRE",
 	  "resource-link": "https://mitre-attack.github.io/attack-navigator/",
