@@ -1735,7 +1735,7 @@
     "grabbed-from": "OpenStego",
     "resource-link": "https://www.openstego.com/",
     "grabbed-from-link": "https://www.openstego.com/",
-    "tags": "software stegonography watermark file",
+    "tags": "software steganography watermark file",
     "compatibility": "",
     "description": "Data Hiding: It can hide any data within a cover file (e.g. images).\nWatermarking (beta): Watermarking files (e.g. images) with an invisible signature. It can be used to detect unauthorized file copying."
   },
@@ -2359,7 +2359,7 @@
     "grabbed-from": "DARKSIDE Technologies",
     "resource-link": "https://darkside.com.au/snow/",
     "grabbed-from-link": "https://darkside.com.au/",
-    "tags": "stegonography file text whitespace line",
+    "tags": "steganography file text whitespace line",
     "compatibility": "",
     "description": "The program SNOW is used to conceal messages in ASCII text by appending whitespace to the end of lines. Because spaces and tabs are generally not visible in text viewers, the message is effectively hidden from casual observers. And if the built-in encryption is used, the message cannot be read even if it is detected.\nSNOW exploits the Steganographic Nature Of Whitespace. Locating trailing whitespace in text is like finding a polar bear in a snowstorm (which, by the way, explains the logo). And it uses the ICE encryption algorithm, so the name is thematically consistent."
   },
@@ -2491,7 +2491,7 @@
     "grabbed-from": "Kali",
     "resource-link": "https://www.kali.org/tools/steghide/",
     "grabbed-from-link": "https://www.kali.org/",
-    "tags": "tool unix kali stegonography file local image au bmp jpeg wav",
+    "tags": "tool unix kali steganography file local image au bmp jpeg wav",
     "compatibility": "",
     "description": "Steghide is a steganography program that is able to hide data in various kinds of image- and audio-files. The color- respectivly sample-frequencies are not changed thus making the embedding resistant against first-order statistical tests.\nSteghide is a steganography program which hides bits of a data file in some of the least significant bits of another file in such a way that the existence of the data file is not visible and cannot be proven.\nSteghide is designed to be portable and configurable and features hiding data in bmp, jpeg, wav and au files, blowfish encryption, MD5 hashing of passphrases to blowfish keys, and pseudo-random distribution of hidden bits in the container data."
   },
@@ -2503,7 +2503,7 @@
     "grabbed-from": "SourceForge",
     "resource-link": "https://sourceforge.net/projects/steghideui/",
     "grabbed-from-link": "https://sourceforge.net/",
-    "tags": "software stegonography file local image au bmp jpeg wav",
+    "tags": "software steganography file local image au bmp jpeg wav",
     "compatibility": "Windows, Linux",
     "description": "A GUI companion to the CLI version of Steghide."
   },
