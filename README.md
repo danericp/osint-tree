@@ -19,3 +19,4 @@ usage: main.py # No arguments needed.
 
 # Disclaimer
 This tool is created originally for personal use. Overall information accuracy still needs a lot of work.
+Not all categorizations and tags are justified well due to their never-ending product improvements.
