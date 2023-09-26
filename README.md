@@ -1,6 +1,10 @@
 # About
 A keyword-based search for referencing your favorite OSINT tools. No more bookmarks. No more cheatsheets!
 
+# Prerequisite
+* Python
+* A terminal that supports hyperlinks (e.g., Visual Studio Code terminal)
+
 # Usage
 ```
 usage: main.py # No arguments needed.
