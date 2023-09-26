@@ -1,7 +1,7 @@
 # About
 A keyword-based search for referencing your favorite OSINT tools. No more bookmarks. No more cheatsheets!
 
-# Mandatory and Optional settings
+# Mandatory and Optional Settings
 * Python
 * A terminal that supports hyperlinks (e.g., Visual Studio Code terminal)
 
