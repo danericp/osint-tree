@@ -11,12 +11,11 @@ usage: main.py # No arguments needed.
 ```
 
 # Future Improvements
-* Multiple Filters
-* Quotes
-* Categorization
+* Multiple Filters + Quotes
+* Categorization Fix
+* Tag Fix
 * Arguments
 * Tree View
 
 # Disclaimer
-This tool is created originally for personal use. Overall information accuracy still needs a lot of work.
-Not all categorizations and tags are justified well due to their never-ending product improvements.
+This tool is created originally for personal use. Overall information accuracy still needs a lot of work due to their never-ending product improvements, change of ownerships and deprecations.
